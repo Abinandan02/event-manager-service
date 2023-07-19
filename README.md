@@ -11,4 +11,5 @@ To run the application clone the application in local.
 3. The web application is accessible via localhost:8080
 
 Sample postman api 
+
 ![image](https://github.com/Abinandan02/event-manager-service/assets/82743546/efeaf161-fba8-4a86-adc2-6e27132b8185)
